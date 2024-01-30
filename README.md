@@ -1,4 +1,4 @@
-# Projet 2 - Analysez des données de systèmes éducatifs
+# Analyse des données de systèmes éducatifs
 
 ![Data Scientist-P2-01-banner](16794159547105_Data_Scientist-P2-01-banner.png)
 
